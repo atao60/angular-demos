@@ -1,0 +1,6 @@
+FORMEONLY.txt
+.project
+.settings
+*.launch
+local
+versions

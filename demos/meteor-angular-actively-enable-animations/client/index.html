@@ -1,0 +1,34 @@
+<head>
+	<meta charset="utf-8" />
+	<title>Enable Animations Explicitly For A Performance Boost In AngularJS</title>
+</head>
+
+<body ng-app="Demo" ng-controller="AppController">
+
+	<h2>
+		Enable Animations Explicitly For A Performance Boost In AngularJS
+	</h2>
+
+	<p>
+		<a ng-click="showListA()">Show List A</a>
+		&mdash;
+		<a ng-click="showListB()">Show List B</a>
+	</p>
+
+	<ul>
+		<!--
+			We are going to be swapping the "activeList" reference to point 
+			to either listA or listB. When we do this, ngRepeat will perform
+			structural changes on the DOM (Document Object Model). And, as it
+			does this, it will use $animate() service to transition the DOM
+			elements, which will do two things:
+
+			* Check to see if "leave" elements need to be animated.
+			* Check to see if "enter" elements need to be animated.
+
+			This behavior can be altered with the $animateProvider.
+		-->
+		<li ng-repeat="item in activeList">{{item}}</li>
+	</ul>
+
+</body>
