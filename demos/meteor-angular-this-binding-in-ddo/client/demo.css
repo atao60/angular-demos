@@ -1,0 +1,10 @@
+
+		statement {
+			display: block ;
+			font-size: 140% ;
+		}
+
+		statement.active {
+			background-color: gold ;
+		}
+
