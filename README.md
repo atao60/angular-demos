@@ -6,7 +6,7 @@ Mainly demos for *Angular* found elsewhere and refactored with *Meteor*.
 
 ## Demos
 
-* [Using The This-Binding In Directive Definition Objects In AngularJS](demos/meteor-angular-actively-enable-animations)
+* [Using The This-Binding In Directive Definition Objects In AngularJS](demos/meteor-angular-this-binding-in-ddo)
 
 * [Enable Animations Explicitly For A Performance Boost In AngularJS](demos/meteor-angular-actively-enable-animations)
 
