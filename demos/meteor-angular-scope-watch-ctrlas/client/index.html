@@ -1,0 +1,27 @@
+<head>
+	<meta charset="utf-8" />
+	<title>Understanding How To Use $scope.$watch() With Controller-As In AngularJS</title>
+</head>
+<body  ng-app="Demo">
+
+	<h2>
+		Understanding How To Use $scope.$watch() With Controller-As In AngularJS
+	</h2>
+
+	<!-- 
+		Notice that we are aliasing the view-model as "appController". Behind
+		the scenes, this is doing nothing more than setting up the following
+		scope-level binding:
+
+		$scope.appController = {{ controller-instance }}
+	-->
+	<div ng-controller="AppController as appController">
+
+		<p>
+			<a ng-click="appController.incrementFoo()">Increment Foo</a>: 
+			{{ appController.fooCount }}.
+		</p>
+
+	</div>
+
+</body>
