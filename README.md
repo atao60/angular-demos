@@ -8,7 +8,9 @@ Mainly demos for *Angular* found elsewhere and refactored with *Meteor*.
 
 * [Using The This-Binding In Directive Definition Objects In AngularJS](demos/meteor-angular-actively-enable-animations)
 
+* [Enable Animations Explicitly For A Performance Boost In AngularJS](demos/meteor-angular-actively-enable-animations)
 
+* [Understanding How To Use $scope.$watch() With Controller-As In AngularJS](demos/meteor-angular-scope-watch-ctrlas)
 
 
 
