@@ -4,6 +4,8 @@ A collection of [Angular](https://angularjs.org/) demos using [Meteor](https://w
 
 Mainly demos for *Angular* found elsewhere and refactored with *Meteor*.
 
+Some of them are available online, thanks to meteor.com hosting.
+
 ## Demos
 
 * [Using The This-Binding In Directive Definition Objects In AngularJS](demos/meteor-angular-this-binding-in-ddo)
@@ -20,7 +22,10 @@ Mainly demos for *Angular* found elsewhere and refactored with *Meteor*.
 
 
 
-Sources:
+## Credits
+
 * [bennadel/JavaScript-Demos](https://github.com/bennadel/JavaScript-Demos)
 
 * [Angular ngTransclude](https://docs.angularjs.org/api/ng/directive/ngTransclude)
+
+* [Deployment and Monitoring](http://guide.meteor.com/deployment.html)
