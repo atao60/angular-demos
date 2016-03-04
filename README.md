@@ -16,9 +16,9 @@ Some of them are available online, thanks to meteor.com hosting.
 
 * [Basic transclusion](demos/meteor-angular-basic-transclude)
 
-* [Transclude fallback content](demos/meteor-angular-transclude-fallback-client)
+* [Transclude fallback content](demos/meteor-angular-transclude-fallback-content)
 
-* [Multi-slot transclusion](demos/meteor-angular-demo-multi-slot-transclusionmeteor-angular-multi-slot-transclusion)
+* [Multi-slot transclusion](demos/meteor-angular-multi-slot-transclusion)
 
 
 
