@@ -1,4 +1,4 @@
-Available [online](atao60.demo.angular.basic-transclude.meteor.com)!
+Available [online](http://atao60.demo.angular.basic-transclude.meteor.com)!
 
 Ref.: [Basic transclusion](https://docs.angularjs.org/api/ng/directive/ngTransclude#basic-transclusion)
 
