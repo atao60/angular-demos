@@ -12,7 +12,15 @@ Mainly demos for *Angular* found elsewhere and refactored with *Meteor*.
 
 * [Understanding How To Use $scope.$watch() With Controller-As In AngularJS](demos/meteor-angular-scope-watch-ctrlas)
 
+* [Basic transclusion](demos/meteor-angular-basic-transclude)
+
+* [Transclude fallback content](demos/meteor-angular-transclude-fallback-client)
+
+* [Multi-slot transclusion](demos/meteor-angular-demo-multi-slot-transclusionmeteor-angular-multi-slot-transclusion)
+
 
 
 Sources:
 * [bennadel/JavaScript-Demos](https://github.com/bennadel/JavaScript-Demos)
+
+* [Angular ngTransclude](https://docs.angularjs.org/api/ng/directive/ngTransclude)
