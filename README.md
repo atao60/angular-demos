@@ -14,6 +14,8 @@ Some of them are available online, thanks to meteor.com hosting.
 
 * [Understanding How To Use $scope.$watch() With Controller-As In AngularJS](demos/meteor-angular-scope-watch-ctrlas)
 
+* [Understanding How To Avoid $scope.$watch() With Controller-As In AngularJS](demos/meteor-angular-avoid-scope-watch-with-ctrlas)
+
 * [Basic transclusion](demos/meteor-angular-basic-transclude)
 
 * [Transclude fallback content](demos/meteor-angular-transclude-fallback-content)
