@@ -1,11 +1,11 @@
 'use strict';
 
-var app = angular.module('Demo', [
+angular.module('Demo', [
     'angular-meteor'
-    ])
+])
 
 .controller(
-    "AppController",
+    'AppController',
     ['$scope', function (scope) {
 
         // Setup our Controller instance as the view-model.
