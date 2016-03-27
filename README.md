@@ -2,7 +2,7 @@
 
 A collection of [Angular](https://angularjs.org/) demos using [Meteor](https://www.meteor.com/).
 
-Mainly demos for *Angular* found elsewhere and refactored with *Meteor*.
+Mainly demos for *Angular* found elsewhere and refactored with *Meteor*. Some other are heavily refactored demos as "How To Avoid $scope.$watch".
 
 Some of them are available online, thanks to meteor.com hosting.
 
@@ -22,6 +22,8 @@ Some of them are available online, thanks to meteor.com hosting.
 
 * [Multi-slot transclusion](demos/meteor-angular-multi-slot-transclusion)
 
+* [Test Driven Development with Cucumber & Chimp](demos/meteor-angular-cucumber-chimp)
+
 
 
 ## Credits
@@ -31,3 +33,5 @@ Some of them are available online, thanks to meteor.com hosting.
 * [Angular ngTransclude](https://docs.angularjs.org/api/ng/directive/ngTransclude)
 
 * [Deployment and Monitoring](http://guide.meteor.com/deployment.html)
+
+* [Test Driven Development with Meteor, Cucumber & Chimp](http://www.mhurwi.com/tutorial-test-driven-development-with-meteor-cucumber-chimp/)
