@@ -4,7 +4,7 @@ This is a super simple application with integration tests.
 
 It's based on this [Test Driven Development with Cucumber & Chimp](http://www.mhurwi.com/tutorial-test-driven-development-with-meteor-cucumber-chimp/), but with AngularJS in place of Blaze + React.
 
-By default, [Chimp](https://chimp.readme.io/) uses the assertions of [Jasmine](https://github.com/jasmine/jasmine), a simple JavaScript testing framework.
+By default, [Chimp](https://chimp.readme.io/) uses the assertions of [Jasmine](http://jasmine.github.io/), a simple JavaScript testing framework.
 
 Here, *Chimp* is used with [Cucumber](https://cucumber.io/), a tool for executable specifications (Behaviour-Driven Development). 
 
@@ -64,10 +64,10 @@ $ sudo chimp --ddp=http://localhost:3000 --watch --path=tests --browser=phantomj
 
 By default, *Chimp* (in fact [Selenium](http://www.seleniumhq.org/)), uses *Chrome* as browser. If you want to see the browser view as *Chimp* is working, but e.g. only *Firefox* is available, then replace "phantomjs" by "firefox".
 
-The "sudo" command is required with the first run, to allow *Chimp" to install *selenium-standalone*.
+The "sudo" command is required with the first run, to allow *Chimp* to install *selenium-standalone*.
 With the following runs, *Chimp* can be launched without it.
 
-Everything is now ready to change the code and get the tests running in real time.
+Everything is now ready to change the code and check the tests in real time.
 
 
 
